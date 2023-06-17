@@ -1,0 +1,30 @@
+.service_box{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 45px 18px;
+}
+
+.service_title{
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 22px;
+    color: #FFFFFF;
+}
+
+.service_text{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #FFFFFF;
+}
+
+.service{
+    background-color: #5A5AC9;
+}
+
+.service_text_box{
+    display: flex;
+    align-items:center;
+    gap: 16px;
+}

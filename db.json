@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "img": "https://images.uzum.uz/cet4s78l08k0o9qhdmcg/original.jpg",
+      "title": "All Natural Makeup Beauty Cosmetics",
+      "price": 11.9
+    },
+    {
+      "id": 2,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9ZoLUg-q_gX9MWJrrAXJRLxUk8DmiJN1AHWW7AdmT9NI8BNQEcPFkeQ54TIBylQJRawA&usqp=CAU",
+      "title": "On Trend Makeup and Beauty Cosmetics",
+      "price": 11.9
+    },
+    {
+      "id": 3,
+      "img": "https://post.healthline.com/wp-content/uploads/2020/04/makeup_composition_overhead-1200x628-facebook-1200x628.jpg",
+      "title": "The Cosmetics and Beauty brand Shoppe",
+      "price": 21.51
+    },
+    {
+      "id": 4,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5mMX73GO339WJfjNmJ8aYvXFLalfR6ticZ0m4H0g7GI5_dNLBM8WEE0Qz9M1NYRwPePY&usqp=CAU",
+      "title": "Orginal Age Defying Cosmetics Makeup",
+      "price": 11.9
+    }
+  ]
+}

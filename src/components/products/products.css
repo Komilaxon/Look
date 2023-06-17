@@ -1,0 +1,102 @@
+.pro_title{
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 38px;
+    text-align: center;
+    color: #111111;
+    margin-bottom: 14px;
+}
+.pro_span{
+    width: 60px;
+    height: 2px;
+    display: block;
+    margin: 0 auto;
+    background-color: #5A5AC9;
+    margin-bottom: 15px;
+}
+
+.pro_text{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    text-align: center;
+    color: #565656;
+    margin-bottom: 49px;
+}
+.pro_list{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 40px;
+}
+
+.pro_item{
+    max-width: 300px;
+    background: #FFFFFF;
+    box-shadow: 0px 0px 11.83px 1.17px rgba(0, 0, 0, 0.06);
+    border-radius: 8px;
+    transition: all 0.4s ease;
+    cursor: pointer;
+}
+.pro_item:hover{
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+}
+
+.pro_img{
+    width: 300px;
+    height: 300px;
+    border-radius: 6px;
+}
+.pro_subtitle{
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    color: #111111;
+    margin-bottom: 35px;
+}
+
+.pro_text_box{
+    padding: 18px 0;
+    padding-left: 18px;
+    padding-right: 25px;
+}
+.pro_subbox{
+    display: flex;
+    align-items:center;
+   
+}
+.pro_price{
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 28px;
+    align-items: center;
+    color: #111111;
+}
+.pro_btn{
+    background-color: #F6F6F6;
+    border-radius: 20px;
+    width: 40px;
+    height: 40px;
+    border: none;
+    display: block;
+    cursor: pointer;
+    margin-left: auto;
+}
+
+.pro_inner_text{
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 21px;
+    color: #5A5AC9;
+    margin-bottom: 9px;
+}
+
+.pro_body{
+    margin-top: -15px;
+}
+
+.blogPro_box{
+    padding: 80px 0;
+}
+.products{
+    padding: 80px 0;
+}

@@ -1,0 +1,119 @@
+.site_header{
+  padding: 11px 0;
+  background-color: #111111;
+}
+.site_header2{
+  background-color: #F5F5F5;
+  padding: 18px 0;
+}
+.header_top_box {
+  display: flex;
+  align-items: center;
+}
+
+.header_top_link {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 14px;
+  display: flex;
+  align-items: center;
+  color: #ffffff;
+  margin-left: 52px;
+}
+
+.header_top_link::before {
+  content: "";
+  display: inline-block;
+  width: 28px;
+  height: 28px;
+  background-repeat: no-repeat;
+  background-image: url(../../assets/icons/phone.svg);
+  background-position: center;
+  vertical-align: middle;
+  margin-right: 10px;
+}
+
+.header_top_title {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 14px;
+  display: flex;
+  align-items: center;
+  text-transform: capitalize;
+  color: #ffffff;
+}
+
+.header_top_list {
+  display: flex;
+  align-items: center;
+  margin-left: auto;
+}
+
+.header_top_item + .header_top_item {
+  padding-left: 27px;
+}
+.header_top_img + .header_top_img {
+  margin-left: 27px;
+}
+.header_top_select {
+  border: none;
+  padding: 5px;
+}
+.header_top_option {
+  display: inline-block;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 14px;
+  text-transform: capitalize;
+  
+}
+
+.header_top_option::before {
+  content: "";
+  display: inline-block;
+  width: 16px;
+  height: 11px;
+  background-repeat: no-repeat;
+  background-image: url(../../assets/icons/flag.svg);
+  background-position: center;
+  vertical-align: middle;
+  margin-right: 5px;
+}
+
+.header_bottom_box{
+  display: flex;
+  justify-content: space-between;
+  align-items:center;
+}
+
+.header_bottom_list{
+  display: flex;
+  align-items:center;
+}
+.header_bottom_item+.header_bottom_item{
+  margin-left: 53px;
+}
+
+.header_bottom_shop{
+  align-items:center;
+}
+.header_bottom_shop+.header_bottom_shop{
+  margin-left: 33px;
+}
+.header_bottom_link{
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 30px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  text-transform: uppercase;
+  color: #111111;
+  transition: all 0.4s ease;
+}
+.header_bottom_link:hover{
+  color: #5A5AC9;
+}
+.navbar{
+  align-items:center;
+}

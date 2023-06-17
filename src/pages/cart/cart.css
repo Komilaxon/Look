@@ -1,0 +1,148 @@
+.card {
+  background-color: #f6f6f6;
+}
+
+.card_top_box {
+  max-width: 350px;
+  margin: 0 auto;
+  padding: 80px 96px;
+  text-align: center;
+  margin-bottom: 53px;
+  margin-top: 20px;
+}
+
+.card_page {
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 38px;
+  text-transform: capitalize;
+  color: #111111;
+  margin-bottom: 22px;
+}
+
+.card_span {
+  height: 2px;
+  width: 60px;
+  background-color: #5a5ac9;
+  margin: 0 auto;
+  display: block;
+  margin-bottom: 30px;
+}
+
+.card_link {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 14px;
+  text-align: center;
+  text-transform: capitalize;
+  color: #111111;
+  margin-right: 9px;
+}
+
+.card_link_box {
+  max-width: 100px;
+  display: flex;
+  align-items: center;
+  margin: 0 auto;
+}
+.card_link2 {
+  margin-left: 9px;
+  text-align: center;
+}
+.card_title {
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 38px;
+  display: flex;
+  align-items: center;
+  text-transform: capitalize;
+  color: #111111;
+  margin-bottom: 27px;
+}
+.card_table {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 28px;
+  text-align: center;
+  text-transform: capitalize;
+  color: #ffffff;
+}
+
+.card_tr {
+  padding: 10px 15px;
+  direction: row;
+  display: flex;
+  justify-content: space-between;
+  background-color: #5a5ac9;
+  margin-bottom: 8px;
+}
+
+.card_img{
+     max-width: 200px;
+     height: 200px;
+}
+
+.card_pro_title{
+     font-weight: 700;
+     font-size: 16px;
+     line-height: 26px;
+     display: flex;
+     align-items: center;
+     text-align: center;
+     color: #212529;
+}
+
+.card_pro_box{
+     justify-content: space-between;
+     display: flex;
+     align-items:center;
+     border-bottom: 2px solid rgb(199, 198, 198);
+     padding: 8px 0;
+}
+.card_add_btn{
+     display: flex;
+     align-items:center;
+}
+
+.btn{
+    background-color:#5a5ac9;
+}
+.card_pro_count{
+     padding: 0 5px;
+     font-weight: 600;
+      font-size: 16px;
+      line-height: 21px;
+      text-align: center;
+      color: #111111;
+}
+
+.card_total_box{
+     display: flex;
+     align-items:center;
+     justify-content: space-between;
+     padding: 100px;
+     max-width: 500px;
+     background-color: #F6F6F6;
+     margin-top: 100px;
+     margin-bottom: 100px;
+}
+
+.total_title{
+     font-weight: 500;
+     font-size: 15px;
+     line-height: 26px;
+     color: #111111;
+}
+
+.card_header_bottom{
+     padding: 18px 0;
+     background-color: #fff;
+}
+
+.card_price{
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 21px;
+  text-align: center;
+  color: #111111;
+}
